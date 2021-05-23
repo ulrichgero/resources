@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165" height="32" viewBox="0 0 165 32">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.005" y1="0.298" x2="1.005" y2="0.298" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#080b0b"/>
+      <stop offset="1" stop-color="#3469b2"/>
+    </linearGradient>
+    <clipPath id="clip-custom_1">
+      <rect width="165" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <text id="offdesign.co" transform="translate(30 24)" fill="#46565c" font-size="22" font-family="Raleway-SemiBold, Raleway" font-weight="600" letter-spacing="0.002em"><tspan x="0" y="0">offdesign.co</tspan></text>
+    <g id="offdesign-icon" transform="translate(-0.145 2.855)">
+      <path id="Tracciato_1" data-name="Tracciato 1" d="M25.84,13.638A12.18,12.18,0,1,1,13.638,1.48a12.185,12.185,0,0,1,12.2,12.158Zm-1.218,0A10.97,10.97,0,0,1,13.68,24.624c-6.05.01-1.841-3.6-3.842-11.051C8.272,7.728,7.592,2.711,13.642,2.7A10.967,10.967,0,0,1,24.622,13.642Z" transform="translate(0)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

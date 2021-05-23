@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="220" height="80" viewBox="0 0 220 80">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-custom_1);
+      }
+
+      .cls-2 {
+        fill: #15838d;
+        font-size: 36px;
+        font-family: HelveticaNeue, Helvetica Neue;
+      }
+    </style>
+    <clipPath id="clip-custom_1">
+      <rect width="220" height="80"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" class="cls-1">
+    <text id="offsdesign.co" class="cls-2" transform="translate(2 53)"><tspan x="0" y="0">offsdesign.co</tspan></text>
+  </g>
+</svg>

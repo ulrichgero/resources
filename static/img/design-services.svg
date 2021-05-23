@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-custom_1">
+      <rect width="120" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="custom_1" data-name="custom – 1" clip-path="url(#clip-custom_1)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(-1.718 43.319) rotate(-20)">
+      <g id="Layer_2-2" data-name="Layer 2" transform="translate(0.282 0.21)">
+        <path id="Tracciato_1" data-name="Tracciato 1" d="M20.765,43.089A12.619,12.619,0,0,1,10.076,22.82" transform="translate(4.81 15.788)" fill="#e2e2e2"/>
+        <rect id="Rettangolo_1" data-name="Rettangolo 1" width="56.947" height="8.931" transform="matrix(0.465, 0.885, -0.885, 0.465, 16.401, 18.594)" fill="#78e5e1"/>
+        <path id="Tracciato_2" data-name="Tracciato 2" d="M25.245,52.1c7.923-4.166,18.51-2.442,20.952,2.186L93.377,3.35,24.665,13.339c2.425,4.645-2.152,14.343-10.075,18.51" transform="translate(9.841 2.012)" fill="#fadb93" opacity="0.57"/>
+        <rect id="Rettangolo_2" data-name="Rettangolo 2" width="56.947" height="8.931" transform="matrix(0.465, 0.885, -0.885, 0.465, 7.904, 13.423)" fill="none" stroke="#000" stroke-miterlimit="10" stroke-width="0.41"/>
+        <path id="Tracciato_3" data-name="Tracciato 3" d="M16.653,39.582A12.6,12.6,0,0,1,6,19.33" transform="translate(1.921 13.318)" fill="none" stroke="#000" stroke-linecap="round" stroke-miterlimit="10" stroke-width="0.41"/>
+        <path id="Tracciato_4" data-name="Tracciato 4" d="M20.205,48.961c7.923-4.166,18.51-2.442,20.952,2.186L88.337.21,19.607,10.2c2.442,4.627-2.134,14.343-10.057,18.51" transform="translate(6.275 -0.21)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.41"/>
+        <line id="Linea_1" data-name="Linea 1" x1="45.523" y2="23.923" transform="translate(49.088)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.41"/>
+        <circle id="Ellisse_1" data-name="Ellisse 1" cx="1.93" cy="1.93" r="1.93" transform="translate(35.137 28.158)" stroke-width="0.41" stroke="#000" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+        <path id="Tracciato_5" data-name="Tracciato 5" d="M20.205,48.961c7.923-4.166,18.51-2.442,20.952,2.186L88.337.21,19.607,10.2c2.442,4.627-2.134,14.343-10.057,18.51" transform="translate(6.275 -0.21)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.41"/>
+      </g>
+    </g>
+    <circle id="Ellisse_2" data-name="Ellisse 2" cx="6.5" cy="6.5" r="6.5" transform="translate(82 99)" fill="#00d8ff"/>
+    <circle id="Ellisse_3" data-name="Ellisse 3" cx="6.5" cy="6.5" r="6.5" transform="translate(11 8)" fill="#240303"/>
+    <rect id="Rettangolo_3" data-name="Rettangolo 3" width="15" height="14" transform="translate(0 94)" fill="#ffeea8"/>
+    <rect id="Rettangolo_4" data-name="Rettangolo 4" width="15" height="14" transform="translate(89 46)" fill="#c400ff"/>
+  </g>
+</svg>

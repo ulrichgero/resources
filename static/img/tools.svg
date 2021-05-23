@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="480" viewBox="0 0 480 480">
+  <defs>
+    <filter id="Rettangolo_3" x="290.968" y="23.436" width="174.865" height="219.929" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Ellisse_1" x="-14" y="272" width="218" height="220" filterUnits="userSpaceOnUse">
+      <feOffset dy="20" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="18" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Poligono_1" x="164.259" y="280.219" width="192.61" height="183.34" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rettangolo_4" x="141" y="34" width="149" height="241" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Personalizzate_1">
+      <rect width="480" height="480"/>
+    </clipPath>
+  </defs>
+  <g id="Personalizzate_1" data-name="Personalizzate – 1" clip-path="url(#clip-Personalizzate_1)">
+    <g id="Raggruppa_1" data-name="Raggruppa 1" transform="translate(96.182 88.953)">
+      <rect id="Rettangolo_1" data-name="Rettangolo 1" width="110" height="93" transform="translate(-84.182 30.047)" fill="#234e52"/>
+      <rect id="Rettangolo_2" data-name="Rettangolo 2" width="87.234" height="87.234" transform="matrix(0.53, -0.848, 0.848, 0.53, 252.373, 234.068)" fill="#0096a3"/>
+      <g transform="matrix(1, 0, 0, 1, -96.18, -88.95)" filter="url(#Rettangolo_3)">
+        <rect id="Rettangolo_3-2" data-name="Rettangolo 3" width="124.52" height="181.504" rx="41" transform="translate(334.6 29.44) rotate(11)" fill="#ff737a"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -96.18, -88.95)" filter="url(#Ellisse_1)">
+        <ellipse id="Ellisse_1-2" data-name="Ellisse 1" cx="55" cy="56" rx="55" ry="56" transform="translate(40 306)" fill="#22543d"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -96.18, -88.95)" filter="url(#Poligono_1)">
+        <path id="Poligono_1-2" data-name="Poligono 1" d="M68.943,0l68.943,119.6H0Z" transform="matrix(0.91, 0.41, -0.41, 0.91, 221.9, 286.22)" fill="#1a202c"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -96.18, -88.95)" filter="url(#Rettangolo_4)">
+        <rect id="Rettangolo_4-2" data-name="Rettangolo 4" width="131" height="223" transform="translate(150 40)" fill="#f9b248"/>
+      </g>
+    </g>
+  </g>
+</svg>

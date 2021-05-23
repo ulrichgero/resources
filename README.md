@@ -1,2 +1,1 @@
-# resources
-Offdesign official Resources List
+# offdesign
